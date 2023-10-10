@@ -23,6 +23,23 @@
 </div>
 
 
+###  Мои Проекты:
+
+#### 1. [eCommerce Shop](https://github.com/Rigelion154/eCommerce-Application)
+
+#### 2. [CSS Selectors](https://github.com/Rigelion154/my-projects#1-css-selectors)
+
+#### 3. [Async Race](https://github.com/Rigelion154/my-projects#2-async-race)
+
+#### 4. [Minesweeper](https://github.com/Rigelion154/my-projects#3-minesweeper)
+
+#### 5. [Shelter](https://github.com/Rigelion154/my-projects#4-shelter)
+
+#### 6. [Virtual Keyboard](https://github.com/Rigelion154/virtual-keyboard)
+
+#### 7. [Momentum](https://github.com/Rigelion154/Momentum)
+
+
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Rigelion/badges/large)
@@ -42,22 +59,6 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rigelion154)
 
-
-###  Мои Проекты:
-
-#### 1. [eCommerce Shop](https://github.com/Rigelion154/eCommerce-Application)
-
-#### 2. [CSS Selectors](https://github.com/Rigelion154/my-projects#1-css-selectors)
-
-#### 3. [Async Race](https://github.com/Rigelion154/my-projects#2-async-race)
-
-#### 4. [Minesweeper](https://github.com/Rigelion154/my-projects#3-minesweeper)
-
-#### 5. [Shelter](https://github.com/Rigelion154/my-projects#4-shelter)
-
-#### 6. [Virtual Keyboard](https://github.com/Rigelion154/virtual-keyboard)
-
-#### 7. [Momentum](https://github.com/Rigelion154/Momentum)
 
 
 
