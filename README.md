@@ -25,7 +25,7 @@
 
 ###  Мои Проекты:
 
-#### 1. [eCommerce Shop](https://github.com/Rigelion154/eCommerce-Application)
+#### 1. [eCommerce Shop](https://github.com/Rigelion154/store-2.0)
 
 #### 2. [CSS Selectors](https://github.com/Rigelion154/my-projects#1-css-selectors)
 
